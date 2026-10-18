@@ -47,7 +47,9 @@ Student-finance-tracker/
    |-storage.js                 # LocalStorage & JSON Import/Export handling
    |-validatiors.js             # Regex rules & input validation logic
    |-search.js                  # Live regex filtering & text highlighting
-   |_app.js                     # Core DOM manipulation, CRUD operations, & event listeners 
+   |_app.js                     # Core DOM manipulation, CRUD operations, & event listeners
+
+Demo Link: https://youtu.be/o2ocKltExjc 
 
 
 
